@@ -1,5 +1,5 @@
 ---
-title: Android DiskLruCache和LruCache缓存完全解析
+title: Android DiskLruCache完全解析，硬盘缓存的最佳方案
 date: 2016-09-27 15:44:34
 tags: Android进阶之路
 categories: Android进阶之路
@@ -335,6 +335,9 @@ try {
 
 - 那么你可能会担心了，如果我不停频繁操作的话，就会不断地向journal文件中写入数据，那这样journal文件岂不是会越来越大？这倒不必担心，DiskLruCache中使用了一个redundantOpCount变量来记录用户操作的次数，每执行一次写入、读取或移除缓存的操作，这个变量值都会加1，当变量值达到2000的时候就会触发重构journal的事件，这时会自动把journal中一些多余的、不必要的记录全部清除掉，保证journal文件的大小始终保持在一个合理的范围内
 
+- 好了，这样的话我们就算是把DiskLruCache的用法以及简要的工作原理分析完了。至于DiskLruCache的源码还是比较简单的， 限于篇幅原因就不在这里展开了，感兴趣的朋友可以自己去摸索。下一篇文章中，我会带着大家通过一个项目实战的方式来更加深入地理解DiskLruCache的用法
+
 ## 转载博客
 
 - [ Android DiskLruCache完全解析，硬盘缓存的最佳方案](http://blog.csdn.net/guolin_blog/article/details/28863651)
+

@@ -191,9 +191,11 @@ class BitmapWorkerTask extends AsyncTask<Integer, Void, Bitmap> {
 }  
 ```
 
+- 掌握了以上两种方法，不管是要在程序中加载超大图片，还是要加载大量图片，都不用担心OOM的问题了!不过仅仅是理论地介绍不知道大家能不能完全理解，在后面的文章中我会演示如何在实际程序中灵活运用上述技巧来避免程序OOM，感兴趣的朋友请继续阅读 [Android照片墙应用实现，再多的图片也不怕崩溃](http://www.qiuchengjia.cn/2016/09/29/Android%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/Android%E7%85%A7%E7%89%87%E5%A2%99%E5%BA%94%E7%94%A8%E5%AE%9E%E7%8E%B0%EF%BC%8C%E5%86%8D%E5%A4%9A%E7%9A%84%E5%9B%BE%E7%89%87%E4%B9%9F%E4%B8%8D%E6%80%95%E5%B4%A9%E6%BA%83/)
 
 
 ## 转载博客
 
 - [Android高效加载大图、多图解决方案，有效避免程序OOM](http://blog.csdn.net/guolin_blog/article/details/9316683)
+
 

@@ -1,10 +1,13 @@
-﻿---
+---
 title: 关于
 date: 2016-05-31 13:28:17
 ---
 
+<center><img src="http://oe7qxqges.bkt.clouddn.com/%E4%B8%80%E4%B8%AA%E6%96%87%E8%89%BA%E7%94%B7%E7%94%9F%E9%AA%91%E7%9D%80%E8%84%9A%E8%B8%8F%E8%BD%A6%E5%B8%A6%E7%9D%80%E8%8A%B1.gif" height="25" width="260" />
 
-<center>![](http://img.blog.csdn.net/20160507124439756)
+
+
+<blockquote class="blockquote-center">__天生骄傲__</blockquote>
 
 我开始写博客的时间大概是我大二上学期（2015年），受到了两个学长的影响，一个是
 
@@ -28,3 +31,5 @@ Github主页：https://github.com/qiuchengjia
 
 Never give up !
 </center>
+
+
