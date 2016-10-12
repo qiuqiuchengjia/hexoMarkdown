@@ -888,4 +888,9 @@ public static void main(String[] argc) {
 
 ### 客户端的使用方法
 
-- 安装 JDK 之后双击可执行
+- windows 下安装 JDK 之后双击可执行
+
+- linux 下使用命令
+
+> java -jar linux客户端.jar
+
