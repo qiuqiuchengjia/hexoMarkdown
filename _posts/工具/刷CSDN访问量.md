@@ -1,5 +1,5 @@
 ---
-title: PHP刷CSDN访问量
+title: 刷CSDN访问量
 date: 2016-10-23 16:18:50
 tags:
 categories:
