@@ -1,11 +1,11 @@
-﻿---
+---
 title: Linux下安装sublime汉化版及完美输入中文
 date: 2015-06-01 14:18:09
 tags: [linux,SublimeText]
 categories: linux 
 ---
 
-- 网上其实有一种方法可以使sublime，但是都没有我这种方法来的直接，直接到我的网盘中下载这个压缩文件，然后解压缩就可以使用了，地址：[传送门](http://pan.baidu.com/s/1jHf0GEq)
+- 网上其实有一种方法可以使sublime，但是都没有我这种方法来的直接，直接到我的网盘中下载这个压缩文件，然后解压缩就可以使用了，地址：[传送门](https://pan.baidu.com/s/1c2p7oti)
 
 -     然后进入sublime的解压目录，执行
 
