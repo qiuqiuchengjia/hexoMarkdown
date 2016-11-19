@@ -40,5 +40,6 @@ Never give up !
 | ![](http://o9fnxzb1g.bkt.clouddn.com/%E5%85%B3%E4%BA%8E_java%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF_%E5%8D%B72.jpg)| 2016.10.30| 至今 | 1% | 待评价
 | ![](http://o99dg8ap9.bkt.clouddn.com/%E5%85%B3%E4%BA%8E_%E7%96%AF%E7%8B%82android%E8%AE%B2%E4%B9%89.jpg)| 2016.10.27 | 2016.11.15| 100%| 非常基础，也非常详细，不适合进阶，但是用来梳理一遍基础知识还是不错的| 
 | ![](http://o99dg8ap9.bkt.clouddn.com/%E5%85%B3%E4%BA%8E_%E7%96%AF%E7%8B%82java%E8%AE%B2%E4%B9%89.jpg)| 2016.11.14 | 至今| 0%| 非常基础，也非常详细，可以用来梳理一遍知识，还有查漏补全，推荐| 
+| ![](http://o99dg8ap9.bkt.clouddn.com/%E5%85%B3%E4%BA%8E_%E9%B8%9F%E5%93%A5%E7%9A%84linux%E7%A7%81%E6%88%BF%E8%8F%9C-%E7%AC%AC%E4%BA%8C%E7%89%88.jpg)| 2016.11.19 | 至今| 0%| 鸟哥的书，还用评价？？|
 
 
